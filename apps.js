@@ -1,2 +1,2 @@
-var console = "Welcome";
-console.log(console)
+var message = 'Welcome';
+console.log(console);
